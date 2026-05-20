@@ -1,12 +1,12 @@
-# 📊 Telecom Customer Churn Analysis: Python EDA & Power BI Dashboard
+# Telecom Customer Churn Analysis: Python EDA & Power BI Dashboard
 
-## 🎯 Project Objective
+##  Project Objective
 
 This project demonstrates an end-to-end data analytics workflow—from cleaning and preprocessing raw telecom customer data using Python to building an interactive Power BI dashboard for churn analysis and business insights.
 
 ---
 
-# 🧹 Phase 1: Data Cleaning & Exploratory Data Analysis (Python)
+#  Phase 1: Data Cleaning & Exploratory Data Analysis (Python)
 
 Using Google Colab and Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn, the dataset was cleaned, analyzed, and visualized to uncover customer churn patterns.
 
@@ -26,9 +26,9 @@ Using Google Colab and Python libraries such as Pandas, NumPy, Matplotlib, and S
 
 ---
 
-# 📈 Phase 2: Interactive Dashboard (Power BI)
+#  Phase 2: Interactive Dashboard (Power BI)
 
-## 🔥 Dashboard Preview
+##  Dashboard Preview
 
 <img width="1420" height="799" alt="dashborad type 1" src="https://github.com/user-attachments/assets/8a930328-57bb-42f1-b3f1-9223975cf019" />
 
@@ -53,7 +53,7 @@ A professional Power BI dashboard was created to provide business-friendly insig
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 - 🐍 Python
 - 🐼 Pandas
@@ -66,7 +66,7 @@ A professional Power BI dashboard was created to provide business-friendly insig
 ---
 
 
-# 🚀 Key Insights
+#  Key Insights
 
 - Customers with month-to-month contracts showed higher churn rates.
 - Higher monthly charges were associated with increased churn probability.
@@ -75,6 +75,4 @@ A professional Power BI dashboard was created to provide business-friendly insig
 
 ---
 
-# 👨‍💻 Author
 
-Made with ❤️ by **Vinayak Rai**
