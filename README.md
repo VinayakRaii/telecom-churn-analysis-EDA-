@@ -27,10 +27,12 @@ The project includes:
 ```bash
 📦 telecom-churn-analysis
  ┣ 📂 data
- ┃ ┣ 📜 telecom_churn_raw.csv
- ┃ ┗ 📜 telecom_churn_cleaned.csv
+ ┃ ┣ 📜 telco.csv
+ ┃ ┗ 📜 clearned_telco_.csv
  ┣ 📜 telecom_churn_eda.ipynb
- ┣ 📜 telecom_dashboard.pbix
+ ┣ 📂 Dashboard
+ ┃ ┣ 📜 dashboard_type1.png
+ ┃ ┗ 📜 dashboard_type2.png
  ┣ 📜 README.md
  ┗ 📜 LICENSE
 
