@@ -30,7 +30,7 @@ Using Google Colab and Python libraries such as Pandas, NumPy, Matplotlib, and S
 
 ## 🔥 Dashboard Preview
 
-![Dashboard Preview](Dashboard/dashboard type 1.png)
+<img width="1420" height="799" alt="dashborad type 1" src="https://github.com/user-attachments/assets/8a930328-57bb-42f1-b3f1-9223975cf019" />
 
 A professional Power BI dashboard was created to provide business-friendly insights into customer churn and retention trends.
 
@@ -64,6 +64,7 @@ A professional Power BI dashboard was created to provide business-friendly insig
 - 📓 Google Colab
 
 ---
+
 
 # 🚀 Key Insights
 
