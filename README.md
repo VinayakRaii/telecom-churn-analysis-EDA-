@@ -1,51 +1,79 @@
-# 📊 Telecom Customer Churn Analysis
+# 📊 Telecom Customer Churn Analysis: Python EDA & Power BI Dashboard
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
-![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-yellow?style=for-the-badge&logo=powerbi)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+## 🎯 Project Objective
 
-> 📈 An end-to-end data analytics project focused on analyzing customer churn patterns in a telecom company using Python and Power BI.
+This project demonstrates an end-to-end data analytics workflow—from cleaning and preprocessing raw telecom customer data using Python to building an interactive Power BI dashboard for churn analysis and business insights.
 
 ---
 
-# 🚀 Project Overview
+# 🧹 Phase 1: Data Cleaning & Exploratory Data Analysis (Python)
 
-This project explores customer behavior and identifies the major factors contributing to customer churn in a telecom company. The analysis was performed using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn, followed by an interactive Power BI dashboard for business insights and visualization.
+Using Google Colab and Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn, the dataset was cleaned, analyzed, and visualized to uncover customer churn patterns.
 
-The project includes:
-- ✅ Data Cleaning
-- ✅ Exploratory Data Analysis (EDA)
-- ✅ Data Visualization
-- ✅ Business Insights
-- ✅ Interactive Power BI Dashboard
+### ✔️ Data Cleaning
+- Removed missing/null values
+- Fixed incorrect datatypes
+- Removed duplicate records
+- Handled inconsistent data entries
+- Prepared cleaned dataset for analysis
 
----
-
-# 📂 Project Structure
-
-```bash
-📦 telecom-churn-analysis
- ┣ 📂 data
- ┃ ┣ 📜 telco.csv
- ┃ ┗ 📜 clearned_telco_.csv
- ┣ 📜 telecom_churn_eda.ipynb
- ┣ 📂 Dashboard
- ┃ ┣ 📜 dashboard_type1.png
- ┃ ┗ 📜 dashboard_type2.png
- ┣ 📜 README.md
- ┗ 📜 LICENSE
+### 📊 Exploratory Data Analysis
+- Analyzed customer churn distribution
+- Compared churn across contract types
+- Studied monthly charges and tenure trends
+- Created visualizations and correlation heatmaps
+- Identified customer retention patterns and business insights
 
 ---
 
-🛠️ Technologies Used
+# 📈 Phase 2: Interactive Dashboard (Power BI)
 
-🐍 Python
-🐼 Pandas
-🔢 NumPy
-📊 Matplotlib
-🎨 Seaborn
-📈 Power BI
-📓 Google Colab / Jupyter Notebook
-📊 Key Analysis Performed
+## 🔥 Dashboard Preview
 
+![Dashboard Preview](Dashboard/dashboard type 1.png)
+
+A professional Power BI dashboard was created to provide business-friendly insights into customer churn and retention trends.
+
+### Dashboard Highlights
+- KPI cards for total customers and churn rate
+- Churn analysis by contract type
+- Monthly charges and tenure insights
+- Customer segmentation visuals
+- Interactive filters and slicers
+- Business-focused retention insights
+
+---
+
+# 📂 Repository Contents
+
+- `telecom_churn_eda.ipynb` → Python data cleaning and EDA notebook
+- `data/telco_data.csv` → Raw telecom dataset
+- `data/cleaned_telco_data.csv` → Cleaned dataset used for analysis
+- `README.md` → Project documentation
+
+---
+
+# 🛠️ Technologies Used
+
+- 🐍 Python
+- 🐼 Pandas
+- 🔢 NumPy
+- 📊 Matplotlib
+- 🎨 Seaborn
+- 📈 Power BI
+- 📓 Google Colab
+
+---
+
+# 🚀 Key Insights
+
+- Customers with month-to-month contracts showed higher churn rates.
+- Higher monthly charges were associated with increased churn probability.
+- Long-term customers demonstrated better retention behavior.
+- Fiber optic internet users showed comparatively higher churn.
+
+---
+
+# 👨‍💻 Author
+
+Made with ❤️ by **Vinayak Rai**
