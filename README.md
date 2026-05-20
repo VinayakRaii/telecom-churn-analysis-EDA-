@@ -34,7 +34,10 @@ The project includes:
  ┣ 📜 README.md
  ┗ 📜 LICENSE
 
+---
+
 🛠️ Technologies Used
+
 🐍 Python
 🐼 Pandas
 🔢 NumPy
